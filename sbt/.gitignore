@@ -1,5 +1,6 @@
 chisel
 common
+Core
 core
 top
 project/target
